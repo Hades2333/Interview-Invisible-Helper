@@ -41,13 +41,3 @@ No clicking. No waving your cursor around on screen. No obvious moves.
 > — No locked features  
 > — No upsells  
 > Just one-time access, total privacy, and complete control.
-
----
-
-## 👋 If you’re tired of bloated tools that try to upsell you more than they help — this one’s for you.
-
----
-
-## 🔗 Support
-
-For support, visit: [https://github.com/Hades2333/Interview-Invisible-Helper/issues](https://github.com/Hades2333/Interview-Invisible-Helper/issues)
